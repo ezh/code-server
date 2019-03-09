@@ -7,3 +7,5 @@ doc/
 .travis.yml
 LICENSE
 README.md
+# Scripts
+*.sh
